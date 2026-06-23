@@ -16,11 +16,12 @@ To get you sorted faster, it helps to include:
 
 - **Trips aren't recording.** Set the app's location permission to **Always** and make sure background / battery optimization isn't restricting Drive MVP — trip detection runs in the background.
 - **Sign-in or account trouble.** Email us from the address tied to your account and we'll help you get back in.
-- **Privacy requests** (access, correction, deletion). See the **[Privacy Policy](privacy.html)**, or just email us and we'll take care of it.
+- **Delete your account / data.** See **[Account & Data Deletion](account-deletion.html)**, or email us with the subject "Delete my account."
+- **Privacy requests** (access, correction). See the **[Privacy Policy](privacy.html)**, or just email us and we'll take care of it.
 
 ---
 
 **ICE24, LLC**
 12469 Saddlebrook Lane, Strongsville, OH 44149, United States
 
-[Privacy Policy](privacy.html)
+[Privacy Policy](privacy.html) · [Account & Data Deletion](account-deletion.html)

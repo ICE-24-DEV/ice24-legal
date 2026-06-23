@@ -6,6 +6,7 @@ This is the legal and support hub for **Drive MVP**, a telematics and delivery-t
 
 - 📄 **[Privacy Policy](privacy.html)** — what data the app collects, why, who we share it with, and your rights.
 - 💬 **[Support](support.html)** — how to get help with the app.
+- 🗑️ **[Account & Data Deletion](account-deletion.html)** — how to delete your account and data.
 
 ## Contact
 
